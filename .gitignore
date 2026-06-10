@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
+
+# Testing
+.pytest_cache/
+
+# AI outputs
+runs/
+wandb/
+
+# Databases
+*.db
+
+# Uploaded files
+uploaded_assets/
+
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
